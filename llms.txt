@@ -1,0 +1,25 @@
+# Kronos AI
+
+Canonical website: https://kronos.lifestyle/
+Category: K-line forecasting and OHLCV readiness workspace
+Support: support@aigeamy.com
+
+Kronos AI turns market history into reviewable forecast paths, volatility ranges, regime notes, and evaluation handoffs. It is a managed experience built around the public Kronos research project, not the official upstream project itself.
+
+Core pages:
+- Home: https://kronos.lifestyle/
+- Method: https://kronos.lifestyle/#method
+- Pricing: https://kronos.lifestyle/pricing/
+- Resources: https://kronos.lifestyle/resources/
+- Guides: https://kronos.lifestyle/guides/
+- Documentation: https://kronos.lifestyle/docs/
+
+Primary sources:
+- Repository: https://github.com/shiyu-coder/Kronos
+- Paper: https://arxiv.org/abs/2508.02739
+- Demo: https://shiyu-coder.github.io/Kronos/
+
+Boundaries:
+- Forecasts are uncertain and are not financial advice.
+- Results depend on data quality, horizon, cadence, and market regime.
+- The hosted workflow does not guarantee market outcomes.
